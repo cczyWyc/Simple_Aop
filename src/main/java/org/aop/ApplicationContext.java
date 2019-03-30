@@ -10,11 +10,7 @@ import java.lang.reflect.Method;
 import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * @Author: huangwenjun
- * @Description:
- * @Date: Created in 15:25  2018/4/18
- **/
+
 public class ApplicationContext {
 
 	/**

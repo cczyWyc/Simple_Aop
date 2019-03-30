@@ -6,13 +6,11 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- *
- * 切面
- *
- * @Author: huangwenjun
- * @Description:
- * @Date: Created in 15:23  2018/4/18
- **/
+
+* @Description: 切面
+* @Author:      王有成
+* @CreateDate:  Create by Intellij IDEA 2019/3/6 14:44
+*/
 @Retention(RetentionPolicy.RUNTIME)//保留时间长短
 @Target(value = {ElementType.TYPE})//使用范围 接口、类、枚举、注解
 public @interface Aspect {

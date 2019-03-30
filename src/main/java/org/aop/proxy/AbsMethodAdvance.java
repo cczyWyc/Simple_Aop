@@ -7,11 +7,7 @@ import org.aop.util.StringUtils;
 
 import java.lang.reflect.Method;
 
-/**
- * @Author: huangwenjun
- * @Description:
- * @Date: Created in 18:19  2018/4/18
- **/
+
 public abstract class AbsMethodAdvance implements MethodInterceptor {
 
 	/**

@@ -3,11 +3,7 @@ package org.aop.util;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
-/**
- * @Author: huangwenjun
- * @Description:
- * @Date: Created in 17:48  2018/4/4
- **/
+
 public class ReflectionUtil {
 
 	/**

@@ -5,11 +5,7 @@ import org.aop.demo.Test;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * @Author: huangwenjun
- * @Description:
- * @Date: Created in 15:57  2018/4/18
- **/
+
 public class Main {
 
 	public static void main(String[] args) {

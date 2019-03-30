@@ -1,10 +1,12 @@
 package org.aop.demo;
 
+
 /**
- * @Author: huangwenjun
- * @Description:
- * @Date: Created in 15:55  2018/4/18
- **/
+
+* @Description: 定义被代理的实体类
+* @Author:      王有成
+* @CreateDate:  Create by Intellij IDEA 2019/3/6 14:45
+*/
 public class Test {
 
 	public void doSomeThing() {

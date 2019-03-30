@@ -12,11 +12,7 @@ import java.util.Set;
 import java.util.jar.JarEntry;
 import java.util.jar.JarFile;
 
-/**
- * @Author: huangwenjun
- * @Description:
- * @Date: Created in 17:18  2018/4/4
- **/
+
 public class ClassUtil {
 
 	/**

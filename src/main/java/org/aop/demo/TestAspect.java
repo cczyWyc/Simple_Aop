@@ -5,10 +5,11 @@ import org.aop.annotion.aspect.PointCut;
 import org.aop.proxy.AbsMethodAdvance;
 
 /**
- * @Author: huangwenjun
- * @Description:
- * @Date: Created in 15:53  2018/4/18
- **/
+
+* @Description: 定义切点和切面
+* @Author:      王有成
+* @CreateDate:  Create by Intellij IDEA 2019/3/6 14:46
+*/
 @Aspect
 public class TestAspect extends AbsMethodAdvance {
 
